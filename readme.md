@@ -2,7 +2,6 @@
 ## Application has the following parts:
 ### Animated Landing Page
 ![Landing](./doc/1screen.png)
-Using pure css for bakcground animations
 ### Home page
 ![Main page](./doc/2screen.png)
 ### Campgorund show page
