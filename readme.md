@@ -15,7 +15,7 @@ Using pure css for bakcground animations
 ![New campground page](./doc/6screen.png)
 
 ## Technology stack
-HTML, CSS, Bootstrap, EJS and Google Maps API on client side 
+HTML, CSS, Bootstrap, EJS and Google Maps API on client side <br/>
 Express.js, RESTful routes, passport.js and MongoDB on server side 
 
 ### Try it out
