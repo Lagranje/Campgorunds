@@ -1,4 +1,4 @@
-# YelpCamp - web application, where tourists can store and share information about campgrounds
+# YelpCamp
 ## Application has the following parts:
 ### Animated Landing Page
 ![Landing](./doc/1screen.png)
