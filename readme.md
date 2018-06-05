@@ -1,5 +1,5 @@
 # YelpCamp
-## Application has the following parts:
+## Web app for tourists to store and share information about campgrounds. Users can Sign Up and Sign In to the system, add new and view previously added campgrounds.
 ### Animated Landing Page
 ![Landing](./doc/1screen.png)
 ### Home page
